@@ -1,6 +1,9 @@
-## formd.js&mdash;A JavaScript port of [formd](http://drbunsen.github.com/formd/):
+## formd.js&mdash;A JavaScript port of an ancient version of formd:
 
-For more information on `formd` consult the [documentation](http://drbunsen.github.com/formd/) and [this blog post](http://www.drbunsen.org/formd-a-markdown-formatting-tool.html).
+Converts from inline to referenced markdown links formats, and back. 
+
+The original project is long gone, but [lives on in Typescript here](https://github.com/seth-brown/formd).
+
 
 ### Usage
 
